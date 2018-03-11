@@ -8,6 +8,7 @@ This <em>Blog</em> post is about my _favorite_, **holiday destinations**.
 * Thailand
 * Vietnam
 * Italy
+* Portugal
 
 The last _country_ I visited was <strong>Vietnam</strong>.</br> I just felt in Love for the Country.
 #### What I most liked in Vietnam:
@@ -22,5 +23,6 @@ The last _country_ I visited was <strong>Vietnam</strong>.</br> I just felt in L
 2. Rio De Janeiro
 3. Da Nang
 4. Rome
+5. Lagos
 
 [Click here](http://favoriteholidays.com/) to check out my Blog.
