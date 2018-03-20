@@ -1,0 +1,51 @@
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: green
+}
+h3 {
+  color: red;
+}
+
+body {
+  text-align: center;
+  font-family: monospace;
+  font-size: 16px;
+}
+
+h2.intro {
+  color: #44318d;
+}
+
+.special {
+  font-style: italic;
+}
+
+
+h3.intro {
+  color: #e98074;
+}
+
+/*
+img.intro {
+  display: block;
+  margin: 0 auto;
+}
+
+*/
+
+p.share {
+  color: #a4b3b6;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+div.important {
+  color: red;
+}
+
+div.unimportant {
+  color: green;
+}
