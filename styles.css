@@ -2,50 +2,33 @@ h1 {
   color: blue;
 }
 
-h2 {
-  color: green
-}
 h3 {
-  color: red;
+  color: green;
 }
 
 body {
-  text-align: center;
-  font-family: monospace;
-  font-size: 16px;
+  text-align: left;
+  font-family: helvetica;
+  font-size: 18px;
+  width: 50%;
 }
 
 h2.intro {
-  color: #44318d;
+  color: orange;
 }
 
 .special {
   font-style: italic;
 }
 
-
-h3.intro {
-  color: #e98074;
-}
-
-/*
-img.intro {
-  display: block;
-  margin: 0 auto;
-}
-
-*/
-
 p.share {
-  color: #a4b3b6;
-  font-size: 24px;
-  font-family: sans-serif;
+  color: #28a8e2;
 }
 
-div.important {
-  color: red;
+div.posts {
+  color: #444444;
 }
 
-div.unimportant {
-  color: green;
+div.myself{
+  color: blue;
 }
