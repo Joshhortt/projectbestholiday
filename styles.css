@@ -1,9 +1,9 @@
 h1 {
-  color: blue;
+  color: #fc4445;
 }
 
 h3 {
-  color: green;
+  color: #dc5bde;
 }
 
 body {
@@ -11,10 +11,13 @@ body {
   font-family: helvetica;
   font-size: 18px;
   width: 50%;
+  margin-left: 20px;
+  background-color: #cafafe;
 }
 
 h2.intro {
-  color: orange;
+  color: #444444;
+  margin-top: 50px;
 }
 
 .special {
@@ -23,12 +26,28 @@ h2.intro {
 
 p.share {
   color: #28a8e2;
+  margin-bottom: 50px;
+  font-size: 22px;
 }
 
 div.posts {
   color: #444444;
+  margin-top: 50px;
+
 }
 
-div.myself{
-  color: blue;
+div.myself {
+  color: #444444;
+  border-style: solid;
+  background-color: #97caef;
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+}
+div.posts {
+  margin-top: 50px;
+}
+
+div.contacts {
+  margin: 50px 0 50px 0;
+
 }
